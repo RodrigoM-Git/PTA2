@@ -10,3 +10,4 @@ SS:RTY888:Suzuki:Swift:Chris Evans:5:YES:3.5:Item 1 Mints:Item 2 Orange Juice:It
 SS:BNM876:Volkswagen:Golf R:Daigo Umehara:4:YES:7.5:Item 1 Mints:Item 2 Orange Juice:Item 3 Chocolate Bar
 SS:YUI000:Lamborghini:Aventador:Bruce Wayne:2:YES:10.0:Item 1 Mints:Item 2 Orange Juice:Item 3 Chocolate Bar
 SS:UGO777:Tesla:Model 3:Elon Musk:4:YES:6.5:Item 1 Mints:Item 2 Orange Juice:Item 3 Chocolate Bar
+SD:BNM123:Honda:Accord Euro:Gary Oldman:5:YES

@@ -1,0 +1,12 @@
+SD:SIM194:Honda:Accord Euro:Henry Cavill:5:YES
+SD:LEX666:Lexus:M1:Angela Landsbury:3:YES
+SD:BMW256:Mini:Minor:Barbara Streisand:4:YES
+SD:AUD765:Mazda:RX7:Matt Bomer:6:YES
+SD:TOY765:Toyota:Corola:Tina Turner:7:YES
+SD:ROV465:Honda:Rover:Jonathon Ryss Meyers:7:YES
+SS:ASD123:Honda:Civic:Henry Cavill:5:YES:4.5:Item 1 Mints:Item 2 Orange Juice:Item 3 Chocolate Bar
+SS:UGH567:Toyota:Corolla:Ben Affleck:5:YES:5.0:Item 1 Mints:Item 2 Orange Juice:Item 3 Chocolate Bar
+SS:RTY888:Suzuki:Swift:Chris Evans:5:YES:3.5:Item 1 Mints:Item 2 Orange Juice:Item 3 Chocolate Bar
+SS:BNM876:Volkswagen:Golf R:Daigo Umehara:4:YES:7.5:Item 1 Mints:Item 2 Orange Juice:Item 3 Chocolate Bar
+SS:YUI000:Lamborghini:Aventador:Bruce Wayne:2:YES:10.0:Item 1 Mints:Item 2 Orange Juice:Item 3 Chocolate Bar
+SS:UGO777:Tesla:Model 3:Elon Musk:4:YES:6.5:Item 1 Mints:Item 2 Orange Juice:Item 3 Chocolate Bar
